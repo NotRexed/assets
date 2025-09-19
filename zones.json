@@ -3591,14 +3591,6 @@
     "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.citysmash"
   },
   {
-    "id": 450,
-    "name": "Amanda the Adventurer",
-    "cover": "{COVER_URL}/450.png",
-    "url": "{HTML_URL}/450.html",
-    "author": "MANGLEDmaw Games, DreadXP",
-    "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer"
-  },
-  {
     "id": 451,
     "name": "Slender: The 8 Pages",
     "cover": "{COVER_URL}/451.png",
