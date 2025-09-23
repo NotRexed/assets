@@ -4051,5 +4051,13 @@
     "author": "OneCJ",
     "authorLink": "https://onecj.itch.io",
     "featured": true
+  },
+  {
+    "id": 515,
+    "name": "PacMan [Horror]",
+    "cover": "{COVER_URL}/515.png",
+    "url": "{HTML_URL}/515.html",
+    "author": "PacMan",
+    "authorLink": "google.com"
   }
 ]
