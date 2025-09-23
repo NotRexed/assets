@@ -4042,14 +4042,22 @@
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
     "emulator": true
-  }
+  },
   {
     "id": 507,
     "name": "Stronger Than You",
     "cover": "{COVER_URL}/507.png",
     "url": "{HTML_URL}/507.html",
     "author": "OneCJ",
-    "authorLink": "https://onecj.itch.io/",
+    "authorLink": "https://onecj.itch.io",
     "featured": true
   },
+  {
+    "id": 515,
+    "name": "PacMan [Horror]",
+    "cover": "{COVER_URL}/515.png",
+    "url": "{HTML_URL}/515.html",
+    "author": "PacMan",
+    "authorLink": "google.com"
+  }
 ]
