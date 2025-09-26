@@ -4051,5 +4051,14 @@
     "author": "OneCJ",
     "authorLink": "https://onecj.itch.io",
     "featured": true
+  },
+  {
+    "id": 508,
+    "name": "Balatro",
+    "cover": "{COVER_URL}/508.png",
+    "url": "{HTML_URL}/508.html",
+    "author": "LocalThunk",
+    "authorLink": "https://www.playbalatro.com/",
+    "featured": true
   }
 ]
