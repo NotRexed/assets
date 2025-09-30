@@ -4053,10 +4053,10 @@
     "featured": true
   },
   {
-    "id": 510,
+    "id": 509,
     "name": "Balatro",
-    "cover": "{COVER_URL}/510.png",
-    "url": "{HTML_URL}/508.html",
+    "cover": "{COVER_URL}/509.png",
+    "url": "{HTML_URL}/509.html",
     "author": "LocalThunk",
     "authorLink": "https://www.playbalatro.com/",
     "featured": true
