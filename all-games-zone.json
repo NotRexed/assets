@@ -471,7 +471,7 @@
   },
   {
     "id": 58,
-    "name": "1v1.LoL",
+    "name": "1v1.LoL [OLD VERSION]",
     "cover": "{COVER_URL}/58.png",
     "url": "{HTML_URL}/58.html",
     "author": "",
@@ -4059,6 +4059,15 @@
     "url": "{HTML_URL}/509.html",
     "author": "LocalThunk",
     "authorLink": "https://www.playbalatro.com/",
+    "featured": true
+  },
+  {
+    "id": 511,
+    "name": "1v1.LoL",
+    "cover": "{COVER_URL}/511.png",
+    "url": "{HTML_URL}/511.html",
+    "author": "JustPlay.LOL",
+    "authorLink": "1v1.lol",
     "featured": true
   },
   {
