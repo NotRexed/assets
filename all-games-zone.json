@@ -4060,5 +4060,14 @@
     "author": "LocalThunk",
     "authorLink": "https://www.playbalatro.com/",
     "featured": true
+  },
+  {
+    "id": 542,
+    "name": "Karlson",
+    "cover": "{COVER_URL}/542.png",
+    "url": "{HTML_URL}/542-a.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/",
+    "featured": true
   }
 ]
