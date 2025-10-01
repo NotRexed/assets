@@ -4062,6 +4062,15 @@
     "featured": true
   },
   {
+    "id": 511,
+    "name": "1v1.LoL",
+    "cover": "{COVER_URL}/511.png",
+    "url": "{HTML_URL}/511.html",
+    "author": "JustPlay.LOL",
+    "authorLink": "1v1.lol",
+    "featured": true
+  },
+  {
     "id": 542,
     "name": "Karlson",
     "cover": "{COVER_URL}/542.png",
@@ -4069,14 +4078,5 @@
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
     "featured": true
-  },
-  {
-    "id": 511,
-    "name": "1v1.LoL [UPDATED]",
-    "cover": "{COVER_URL}/511.png",
-    "url": "{HTML_URL}/511.html",
-    "author": "1v1Lol",
-    "authorLink": "",
-    "featured": true
-  },
+  }
 ]
