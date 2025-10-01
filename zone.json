@@ -471,7 +471,7 @@
   },
   {
     "id": 58,
-    "name": "1v1.LoL",
+    "name": "1v1.LoL [OLD VERSION]",
     "cover": "{COVER_URL}/58.png",
     "url": "{HTML_URL}/58.html",
     "author": "",
@@ -4069,5 +4069,14 @@
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
     "featured": true
-  }
+  },
+  {
+    "id": 511,
+    "name": "1v1.LoL [UPDATED]",
+    "cover": "{COVER_URL}/511.png",
+    "url": "{HTML_URL}/511.html",
+    "author": "1v1Lol",
+    "authorLink": "",
+    "featured": true
+  },
 ]
