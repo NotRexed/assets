@@ -2961,20 +2961,13 @@
     "authorLink": "https://store.steampowered.com/app/3431300/Slow_Roads/"
   },
   {
-    "id": 370,
+    "id": 371,
     "name": "Smash Karts",
     "cover": "{COVER_URL}/370.png",
     "url": "{HTML_URL}/370.html",
     "author": "Tall Team",
     "authorLink": "https://tall.team/"
-  },
-  {
-    "id": 371,
-    "name": "Stickman Fight Ragdoll",
-    "cover": "{COVER_URL}/371.png",
-    "url": "{HTML_URL}/371.html",
-    "author": "Vanorium",
-    "authorLink": "https://playem.io/dev/vanorium"
+    "featured": true
   },
   {
     "id": 372,
